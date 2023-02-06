@@ -10,15 +10,6 @@ img {
   vertical-align: bottom;
 }
 
-li {
-  list-style: none;
-}
-
-a {
-  text-decoration: none;
-  color: gray;
-}
-
 h1, h2{
   margin: 30px;
   text-align: center;
